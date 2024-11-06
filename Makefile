@@ -2,8 +2,8 @@ FG_SCENERY=${HOME}/Dropbox/FlightGear/local-scenery-mods
 
 TARGET_DIR=Objects/w090n40/w085n45
 
-FILES=mackinac-bridge.ac
-
+FILES=mackinac-bridge.ac \
+  mackinac-bridge1.png
 
 VIEW_LAT=45.79051832606557
 VIEW_LON=-84.72997330511889
