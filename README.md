@@ -5,6 +5,8 @@ Low-polygon model of the Mackinac Bridge, for use in flight simulators and simil
 
 ![Screenshot of the model in FlightGear.](screenshot.png)
 
+![Screenshot of the model in FlightGear at night.](screenshot-night.png)
+
 ## Author
 
 Created by David Megginson, September/October 2024.
