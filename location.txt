@@ -1,24 +1,24 @@
 
 
 ------------------------------ UFO -------------------------------
-Latitude:     45.80510023 deg
-Longitude:    -84.72067787 deg
-Altitude ASL: 3379.0076 m (11085.9829 ft)
-42Heading:      352.5 deg
-Ground Elev:  173.9390 m (570.6659 ft)
+Latitude:     45.81203221 deg
+Longitude:    -84.69964029 deg
+Altitude ASL: 551.6273 m (1809.8009 ft)
+40Heading:      278.7 deg
+Ground Elev:  173.6731 m (569.7936 ft)
 
 # w090n40/w085n45/1565169.stg
-OBJECT_STATIC -84.72067787 45.80510023 173.9390 7.5
+OBJECT_STATIC -84.69964029 45.81203221 173.6731 81.3
 
-http://maps.google.com/maps?ll=45.8051002337,-84.7206778723&z=12&t=h
-$ fgfs --aircraft=ufo --lat=45.805100 --lon=-84.720678 --altitude=11085.98 --heading=286.5
+http://maps.google.com/maps?ll=45.8120322133,-84.6996402939&z=12&t=h
+$ fgfs --aircraft=ufo --lat=45.812032 --lon=-84.699640 --altitude=1809.80 --heading=278.7
 
 
 ------------------------ Selected Object -------------------------
 Path:         /home/david/Models/mackinac-bridge/mackinac-bridge.ac
-Latitude:     45.81232812 deg
-Longitude:    -84.72849888 deg
-Altitude ASL: 173.9746 m (570.7827 ft)
+Latitude:     45.81536898 deg
+Longitude:    -84.72803359 deg
+Altitude ASL: 173.9414 m (570.6740 ft)
 Heading:      5.9 deg
 Pitch:        0.0 deg
 Roll:        -0.0 deg
@@ -26,7 +26,7 @@ Roll:        -0.0 deg
 ------------------------------------------------------------------
 
 # Lines for stg
-OBJECT_SHARED /home/david/Models/mackinac-bridge/mackinac-bridge.ac -84.72849888 45.81232812 173.9746 354.1 0.0 -0.0
+OBJECT_SHARED /home/david/Models/mackinac-bridge/mackinac-bridge.ac -84.72803359 45.81536898 173.9414 354.1 0.0 -0.0
 
 # Lines for upload form
-OBJECT_SHARED /home/david/Models/mackinac-bridge/mackinac-bridge.ac -84.72849888 45.81232812 173.9746 354.1 -0.0 0.0 -0.0
+OBJECT_SHARED /home/david/Models/mackinac-bridge/mackinac-bridge.ac -84.72803359 45.81536898 173.9414 354.1 -0.0 0.0 -0.0
